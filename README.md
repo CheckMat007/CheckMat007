@@ -28,7 +28,6 @@ Estou em transição da precisão da torre de controle para a robustez do desenv
 - 🎓 **Graduação em Tecnologia em Gestão Financeira** (Em andamento)
 - 🛫 **Controle de Tráfego Aéreo** - Especialista em sistemas de missão crítica.
 - ⚡ **Full Stack Open** - University of Helsinki (Prev. 2026)
-- 🏛️ **Extensão em Ciência da Computação** - USP (Início Jan/2026)
 
 ---
 
