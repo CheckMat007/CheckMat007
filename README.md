@@ -20,7 +20,7 @@ Estou em transição da precisão da torre de controle para a robustez do desenv
 
 - **[M2 Projecta](https://m2projecta.com.br):** Landing page de alta performance desenvolvida com Next.js 14, foco total em Core Web Vitals e SEO técnico.
 - **[Lev Brands](https://www.levbrands.com.br/):** Minha agência de desenvolvimento pessoal, onde centralizo meus serviços de consultoria técnica.
-- **[Projeto Secreto]:** Em desenvolvimento - um sistema escalável focado em [adicione aqui o nicho do seu projeto complexo].
+- **[Projeto Secreto]:** Em desenvolvimento - um sistema escalável focado em gerenciamento de escalas para órgãos de controle de tráfego aéreo.
 
 ---
 
