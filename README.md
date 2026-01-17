@@ -1,8 +1,8 @@
 # Olá, eu sou o Gustavo Levenhagen 👋
 
-### Desenvolvedor Full Stack | Ex-Controlador de Tráfego Aéreo (FAB)
+### Desenvolvedor Full Stack 
 
-Estou em transição da precisão da torre de controle para a robustez do desenvolvimento de software. Especializado no ecossistema **Next.js**, focado em entregar aplicações de alta performance, com arquitetura limpa e foco agressivo em **SEO**.
+Especializado no ecossistema **Next.js**, focado em entregar aplicações de alta performance, com arquitetura limpa e foco agressivo em **SEO**.
 
 ---
 
@@ -37,5 +37,3 @@ Estou em transição da precisão da torre de controle para a robustez do desenv
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.levbrands.com.br/)
 
 ---
-
-> *"De controlar céus a controlar fluxos de dados, a precisão continua sendo a mesma."*
